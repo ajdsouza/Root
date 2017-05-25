@@ -1,7 +1,7 @@
 
 
 Use the Iterative Newtons Method to solve a System of non Linear Equations generating my discretizing a multidimensional Boundary Value Problem 
-https://github.com/ajdsouza/Iterative-NetowsMethod-NonLinear-Discretized-BoundaryValue
+https://github.com/ajdsouza/Iterative-NewtonsMethod-NonLinear-Discretized-BoundaryValue.git
 
 
 Fit Model to Predict Mean and Variance of a Random Variable that depends on other Variables with different distributions. Implemented in R 
