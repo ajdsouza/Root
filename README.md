@@ -28,7 +28,7 @@ https://github.com/ajdsouza/SVD-LowRank-TFIDF-DocumentSearch.git
 
 
 6.
-Personalized Restaurant Recommender based on Yelp Reviews - Sentiment Analysis, Recommender System
+Personalized Restaurant Recommender based on Yelp Reviews - NLP,CRF based Sentiment Analysis, NMF based Recommender System
 https://github.com/ajdsouza/Yelp-Personalized-Restaurant-Recommender.git
 
 7.
@@ -37,23 +37,23 @@ https://github.com/ajdsouza/Kaggle-SantanderBank-CustomerSatisfaction-Competitio
 
 
 8.
-Develop a ML algorithm to predict the relevance scores of a search string to a Product for Home Depot Product Search
+Kaggle Competition - Develop a ML algorithm to predict the relevance scores of a search string to a Product for Home Depot Product Search, A random forest Approach
 https://github.com/ajdsouza/Kaggle-HomeDepot-Search-Competition.git
 
 
 9.
-A Sudoku Solver Using Integer Linear Programming
+A Sudoku Solver Using Optimizing by Integer Linear Programming
 https://github.com/ajdsouza/Optimization-Integer-SudokuSolver.git
 
 
 10.
-A version of the genetic Motif Finding Problem - Using MPI
+Parallel Processing Algorithm for the genetic Motif Finding Problem - Using MPI
 https://github.com/ajdsouza/Parallel-MPI-HammingDistance-SequenceMotifs.git
 
 
 
 11.
-Implement QuickSort in Parallel using MPI
+Parallel Processing  algotirhm for QuickSort in Parallel using MPI
 https://github.com/ajdsouza/Parallel-MPI-QuickSort.git
 
 
@@ -89,3 +89,21 @@ https://github.com/ajdsouza/Optimization---TSP---Dantzig-Fulkerson-Johnson.git
 17.
 Non recursive mergesort in python
 https://github.com/ajdsouza/Mergesort-Nonrecursive.git
+
+
+
+18.
+Data Visualization Using the Javascript Library D3
+https://github.com/ajdsouza/D3-DataVisualization.git
+
+
+
+19.
+Large Graph Analysis on Hadoop/HDFS Using Java - Get the sum of weights of each target node using MapReduce
+https://github.com/ajdsouza/LargeGraphAnalysis-Hadoop-Java.git
+
+
+
+20.
+Using Google N-Gram Data and get the top 10 bigrams by Average Usage per book - PIG/AWS 
+https://github.com/ajdsouza/NGram-Average-PIG-AWS.git
