@@ -110,6 +110,24 @@ https://github.com/ajdsouza/LargeGraphAnalysis-Hadoop-Java.git
 Large Graph Analysis on Spark/HDFS Using SCALA Map and ReduceByKey - Get the sum of weights of each target node using map and reducebykey
 https://github.com/ajdsouza/LargeGraphAnalysis-Hadoop-Java.git
 
+
+
 21.
 Using Google N-Gram Data and get the top 10 bigrams by Average Usage per book - PIG/AWS 
 https://github.com/ajdsouza/NGram-Average-PIG-AWS.git
+
+
+
+
+
+22.
+Implement the decision tree classifier using Python for classification of wine quality using Wine Quality dataset from UCI. 
+https://github.com/ajdsouza/DecisionTree-UCI-WineQualityClassifier.git
+
+
+
+
+
+23.
+Implement and Compare Exact Branch and Bound, Heuristic  and Stochastic Local Search based Methods for Solving NP-Hard TSP Problem
+https://github.com/ajdsouza/TSPProblem-Stochastic-Methods.git
