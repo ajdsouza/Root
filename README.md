@@ -28,7 +28,7 @@ https://github.com/ajdsouza/SVD-LowRank-TFIDF-DocumentSearch.git
 
 
 6.
-Personalized Restaurant Recommender based on Yelp Reviews - NLP,CRF based Sentiment Analysis, NMF based Recommender System
+Personalized Restaurant Recommender based on Yelp Reviews - NLP,CRF , MaxEnt based Sentiment Analysis, NMF based Recommender System
 https://github.com/ajdsouza/Yelp-Personalized-Restaurant-Recommender.git
 
 7.
